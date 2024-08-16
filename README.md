@@ -20,5 +20,6 @@ More about me:
 
 
 
+
 ## Joke of the Day
-Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+Algorithm: A word used by programmers when they don't want to explain how their code works.
