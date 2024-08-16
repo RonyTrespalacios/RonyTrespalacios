@@ -16,5 +16,7 @@ More about me:
 
 
 
+
 ## Joke of the Day
-Debugging: Removing the needles from the haystack.
+Why did the Python data scientist get arrested at customs?
+She was caught trying to import pandas!
