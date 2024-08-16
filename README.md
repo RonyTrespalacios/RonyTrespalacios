@@ -19,6 +19,6 @@ More about me:
 
 
 
+
 ## Joke of the Day
-Why are Assembly programmers always soaking wet?<br>
-They work below C-level.
+Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
