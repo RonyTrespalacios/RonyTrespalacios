@@ -17,6 +17,7 @@ More about me:
 
 
 
+
 ## Joke of the Day
-Why did the Python data scientist get arrested at customs?
-She was caught trying to import pandas!
+Why was the JavaScript developer sad?
+Because they didn't Node how to Express themself!
