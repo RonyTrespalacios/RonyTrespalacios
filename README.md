@@ -13,5 +13,6 @@ More about me:
 - 👯 I would like to collaborate on projects with innovative technologies
 - 📫 Reach out to me at **ronytresspalacios@gmail.com** if you want to discuss anything with me
 - 👀 I am on the lookout for new challenges
+
 ## Joke of the Day
-// This line doesn't actually do anything, but the code stops working when I delete it.
+The generation of random numbers is too important to be left to chance.
