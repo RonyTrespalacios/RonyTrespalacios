@@ -1,4 +1,4 @@
-## Hi there! I'm ROny Trespalacios👋
+## Hi there! I'm Rony Trespalacios👋
 
 I'm a electronic engineer from Colombia. 🇨🇴
 
