@@ -18,6 +18,7 @@ More about me:
 
 
 
+
 ## Joke of the Day
-Why was the JavaScript developer sad?
-Because they didn't Node how to Express themself!
+Why are Assembly programmers always soaking wet?<br>
+They work below C-level.
