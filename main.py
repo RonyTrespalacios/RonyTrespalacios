@@ -12,11 +12,11 @@ def get_joke():
         
         # Verifica si la broma es de tipo "single"
         if joke_data.get("type") == "single":
-            return joke_data["joke"]
+            return joke_data["joke"].replace("\n", "<br>\n")
         
         # Verifica si la broma es de tipo "twopart"
         elif joke_data.get("type") == "twopart":
-            return f"{joke_data['setup']}\n{joke_data['delivery']}"
+            return f"{joke_data['setup']}<br>\n{joke_data['delivery']}"
         
         else:
             print("Unexpected joke type. Trying again...")
