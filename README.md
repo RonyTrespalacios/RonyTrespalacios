@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there! I'm ROny Trespalacios👋
 
-<!--
-**RonyTrespalacios/RonyTrespalacios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a electronic engineer from Colombia. 🇨🇴
 
-Here are some ideas to get you started:
+Mastering ROS, FPSoC devices, IoT and Hardware Acceleration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm earning Web Development 🌍 & AI Enthusiast 🤖
+
+More about me:
+
+- 🔭 Currently, I work as **Data Analyst** and also as a researcher.
+- 🌱 I am studying AI, web development, and deepening my knowledge
+- 👯 I would like to collaborate on projects with innovative technologies
+- 📫 Reach out to me at **ronytresspalacios@gmail.com** if you want to discuss anything with me
+- 👀 I am on the lookout for new challenges
