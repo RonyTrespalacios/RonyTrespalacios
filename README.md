@@ -21,5 +21,7 @@ More about me:
 
 
 
+
 ## Joke of the Day
-Algorithm: A word used by programmers when they don't want to explain how their code works.
+What is a dying programmer's last program?<br>
+Goodbye, world!
