@@ -1,10 +1,10 @@
 ## Hi there! I'm Rony Trespalacios👋
 
-I'm a electronic engineer from Colombia. 🇨🇴
+I'm a electronic engineer from Colombia.
 
 Mastering ROS, FPSoC devices, IoT and Hardware Acceleration.
 
-I'm earning Web Development 🌍 & AI Enthusiast 🤖
+I'm learning Web Development 🌍 & AI Enthusiast 🤖
 
 More about me:
 
