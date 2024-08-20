@@ -23,6 +23,6 @@ More about me:
 
 
 
+
 ## Joke of the Day
-What is a dying programmer's last program?<br>
-Goodbye, world!
+Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
