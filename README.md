@@ -25,6 +25,7 @@ More about me:
 
 
 
+
 ## Joke of the Day
-Why does no one like SQLrillex?<br>
-He keeps dropping the database.
+What do you call a group of 8 Hobbits?<br>
+A Hobbyte.
