@@ -9,7 +9,7 @@ I'm learning Web Development 🌍 & AI Enthusiast 🤖
 More about me:
 
 - 🔭 Currently, I work as **Data Analyst** and also as a researcher.
-- 🌱 I am studying AI, web development, and deepening my knowledge
+- 🌱 I am studying Back-end with Java at Globant Code Your Future scholarship, web development, and deepening my knowledge
 - 👯 I would like to collaborate on projects with innovative technologies
 - 📫 Reach out to me at **ronytresspalacios@gmail.com** if you want to discuss anything with me
 - 👀 I am on the lookout for new challenges
