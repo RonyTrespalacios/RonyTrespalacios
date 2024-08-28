@@ -26,6 +26,7 @@ More about me:
 
 
 
+
 ## Joke of the Day
-What do you call a group of 8 Hobbits?<br>
-A Hobbyte.
+What do you get if you lock a monkey in a room with a typewriter for 8 hours?<br>
+A regular expression.
