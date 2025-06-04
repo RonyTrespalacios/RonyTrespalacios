@@ -21,4 +21,4 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/RonyTrespalacios/RonyTrespalacios/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/RonyTrespalacios/RonyTrespalacios/output/snake.svg?palette=github-dark)
