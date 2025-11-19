@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rony Trespalacios</h1>
-<h3 align="center">A passionate Electronic Engineer from Colombia</h3>
+<h3 align="center">A passionate Software/Electronics Engineer from Colombia</h3>
 
-- 🔭 I’m currently working as a **Data Analyst**
-
-- 🌱 I’m currently learning **Backend with Java**
+- 🌱 I’m currently learning **NestJS**
 
 - 👯 I’m looking to collaborate on **software development**
 
